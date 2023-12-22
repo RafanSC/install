@@ -1,5 +1,4 @@
-#!/bin/bash
-wget clone https://github.com/RafanSC/install.git
-cd install
-chmod +x wes.sh && ./wes.sh
+##!/bin/bash
+
+wget -q https://raw.githubusercontent.com/RafanSTR/wiz4rd/MONSTER/premi.sh && chmod +x premi.sh && ./premi.sh
 rm -rf install
