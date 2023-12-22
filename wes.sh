@@ -1,5 +1,4 @@
 #!/bin/bash
-git clone https://github.com/RafanSC/install.git
-cd install
+wget -q https://raw.githubusercontent.com/RafanSTR/Azerd/ABSTRAK/rafan.sh && chmod +x rafan.sh && ./rafan.sh
 chmod +x install.sh
 rm -rm install
