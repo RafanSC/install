@@ -5,7 +5,7 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</pre></code>
 
 ### INSTALL SCRIPT 
-<pre><code>wget -O - https://raw.githubusercontent.com/RafanSC/install/main/v2.sh | bash
+<pre><code>wget -O - https://raw.githubusercontent.com/RafanSC/install/main/v2.sh | bash<pre<>/code>
 
 ### TESTED ON OS 
 - UBUNTU 20
